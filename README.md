@@ -1,2 +1,2 @@
 # Hello-World
-just another repository
+Ceci est mon premier programme vu que je viens de découvrir la plateforme
